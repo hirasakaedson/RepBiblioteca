@@ -105,14 +105,13 @@
     <None Include="packages.config" />
     <Content Include="View\Home\Index.cshtml" />
     <Content Include="View\Shared\_Layout.cshtml" />
-    <Content Include="View\Shared\Menu.cshtml" />
     <Content Include="View\Shared\Rodape.cshtml" />
     <Content Include="View\Aluno\Index.cshtml" />
     <Content Include="View\Autor\Index.cshtml" />
     <Content Include="View\Emprestimo\Index.cshtml" />
     <Content Include="View\Livro\Index.cshtml" />
     <Content Include="View\Editora\Index.cshtml" />
-    <Content Include="View\Shared\Menu - Cópia .cshtml" />
+    <Content Include="View\Shared\Menu.cshtml" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
